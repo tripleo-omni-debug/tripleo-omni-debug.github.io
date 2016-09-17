@@ -1,2 +1,1 @@
-# OmniscientDebugger.github.io
-Website for  OmniscientDebugger
+http://omniscientdebugger.github.io/
